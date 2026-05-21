@@ -12,10 +12,3 @@ In this project, I added a small Python function that converts Celsius to Fahren
 ## Formula
 
 Fahrenheit = Celsius * 9/5 + 32
-
-## How to Run the Tests
-
-First install pytest:
-
-```bash
-pip install pytest
